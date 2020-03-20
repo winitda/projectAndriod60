@@ -14,5 +14,5 @@
 
 ## 3. หน้าแสดงกราฟยอดขายอัลบั้มของแต่ละวง
 ### - 
-![alt text](https://user-images.githubusercontent.com/48548611/77112122-07951380-6a5b-11ea-9a4a-a9c9cda110d4.png)
+![alt text](https://user-images.githubusercontent.com/50725329/77151533-b6bc0400-6ac8-11ea-9713-3698e95ff77f.png)
 
