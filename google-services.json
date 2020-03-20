@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844818895786",
+    "firebase_url": "https://reportmusic-db8d9.firebaseio.com",
+    "project_id": "reportmusic-db8d9",
+    "storage_bucket": "reportmusic-db8d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844818895786:android:4babd1ba3e318334d311d3",
+        "android_client_info": {
+          "package_name": "com.example.reportmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844818895786-hbhmil8ns313rtc56qaq3e204030a6k1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reportmusic",
+            "certificate_hash": "122398f4a1d5764b67b99cdd2f2c26dcc1c7661b"
+          }
+        },
+        {
+          "client_id": "844818895786-6bnq84gko2i3sjlmhs3n38rifus1rg75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP6oUrk8bajTQUSoaE1ennnMg6B3p3wXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844818895786-6bnq84gko2i3sjlmhs3n38rifus1rg75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
