@@ -10,7 +10,7 @@
 
 ## 2. listkpop
 ### - แสดงลิสต์วงkpop 
-![alt text](https://user-images.githubusercontent.com/48548611/77112531-c3564300-6a5b-11ea-99d8-303a064e1a0d.png)
+![alt text](https://user-images.githubusercontent.com/50725329/77151504-a73cbb00-6ac8-11ea-8008-38743cf887b5.png)
 
 ## 3. หน้าแสดงกราฟยอดขายอัลบั้มของแต่ละวง
 ### - 
